@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1391513378631.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E15A6978",
+    "lastKnownWriteTime" : 7741240722073845761,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "combi",
+        "contentUrl" : "content?title=combi&file=3155c7e95e8c4e50985dfc79b4d27c4e.htm",
+        "displayedObservations" : "1000",
+        "displayedVariables" : 15,
+        "totalObservations" : "1309",
+        "variables" : "18"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

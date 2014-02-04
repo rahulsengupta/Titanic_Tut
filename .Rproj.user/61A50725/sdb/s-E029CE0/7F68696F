@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1391515568952.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7F68696F",
+    "lastKnownWriteTime" : 7741240722073845761,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "submit",
+        "contentUrl" : "content?title=submit&file=3aa8729d51374302ac03cdb7af4052b3.htm",
+        "displayedObservations" : 418,
+        "displayedVariables" : 2,
+        "totalObservations" : 418,
+        "variables" : 2
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1391514262407.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E0758385",
+    "lastKnownWriteTime" : 1367936,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "famIDs",
+        "contentUrl" : "content?title=famIDs&file=e0324205150848dba6c237dea0bd87c7.htm",
+        "displayedObservations" : "36",
+        "displayedVariables" : 2,
+        "totalObservations" : "36",
+        "variables" : "2"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
